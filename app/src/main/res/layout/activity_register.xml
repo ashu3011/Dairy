@@ -53,6 +53,6 @@
         android:layout_width="129dp"
         android:layout_height="57dp"
         android:text="Register"
-        tools:layout_editor_absoluteX="169dp"
-        tools:layout_editor_absoluteY="306dp" />
+        tools:layout_editor_absoluteX="115dp"
+        tools:layout_editor_absoluteY="310dp" />
 </android.support.constraint.ConstraintLayout>
